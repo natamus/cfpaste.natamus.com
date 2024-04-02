@@ -27,6 +27,8 @@ body {
 
 .inside img {
     width: 400px;
+
+    filter: invert(100%) sepia(36%) saturate(3448%) hue-rotate(182deg) brightness(122%) contrast(97%);
 }
 
 .inside a:hover {

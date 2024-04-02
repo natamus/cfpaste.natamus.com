@@ -1,4 +1,4 @@
 # All robots are welcome!
 User-agent: *
 Disallow:
-Sitemap: https://paste.modularity.gg/sitemap.xml
+Sitemap: https://cfpaste.natamus.com/sitemap.xml

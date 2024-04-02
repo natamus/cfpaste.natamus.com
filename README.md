@@ -1,2 +1,2 @@
-# paste.modularity.gg
-The source code for https://paste.modularity.gg/.
+# cfpaste.natamus.com
+The source code for https://cfpaste.natamus.com/.
